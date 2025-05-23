@@ -20,8 +20,7 @@ This project analyzes employee information, performance and attrition trends usi
 - Enable data-backed workforce planning
 
 ## 📸 Screenshots
-![Dashboard Screenshot](images/dashboard.png)
-
+![Dashboard Screenshot](images/dashboard.png)<Screenshot: URL, 785px width><img width="785" alt="Screenshot 2025-05-16 132448" src="https://github.com/user-attachments/assets/0e4a09da-4b18-4c92-9e6c-36a9b4c7c705" />
 https://acrobat.adobe.com/id/urn:aaid:sc:AP:c3d10ba9-09ef-4cb5-b929-6b998464a360
 ## 🧠 Key Insights
 LinkedIn tops in the source of hire 
